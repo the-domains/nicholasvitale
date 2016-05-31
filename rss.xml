@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nicholas Vitale  ]]></title>
         <description><![CDATA[Nicholas Vitale  ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nicholasvitale/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:48:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 19:54:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nicholasvitale/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9c6fdec-2719-4363-a6b1-1b5109ae5f8c.jpg">]]></description>
-            <link>undefinedsan-francisco-original-watercolor-and-gouache-on-arches-co/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1153af70-b2a3-433e-9be1-104bc2ce8206.jpg">]]></description>
+            <link>https://thegrid.ai/nicholasvitale/san-francisco-original-watercolor-and-gouache-on-arches-co/index.html</link>
             <guid isPermaLink="false">3e7d697d-987c-4777-8565-62afebef993c</guid>
-            <pubDate>Tue, 31 May 2016 19:48:24 GMT</pubDate>
+            <pubDate>Tue, 31 May 2016 19:53:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
